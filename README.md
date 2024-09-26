@@ -80,3 +80,18 @@ Next, the flight_day column, which originally contained day names like "Mon" or 
 This initial exploration provided an overview of the dataset and allowed us to clean and prepare it for further analysis.
 
 The code file can be found [here](https://drive.google.com/file/d/1JlsMseYqTzTDnNRcB9L-EOar1DJkxhd0/view?usp=sharing)
+
+### 2.2 Data Preparation for Modeling
+
+In this step, we began by loading the dataset using the appropriate encoding (`ISO-8859-1`) to ensure special characters are handled correctly. After loading the data into a pandas DataFrame, we performed initial data inspection using the `head()` function to verify the data structure.
+
+Next, we conducted several visualizations to understand the distributions of key variables:
+
+- **Number of Passengers:** A count plot was generated to explore how frequently different values occur in the `num_passengers` column.
+- **Sales Channel:** Another count plot was created to examine the distribution of booking sources, showing which sales channels customers used.
+- **Trip Type:** We explored whether customers preferred one-way or round-trip journeys by plotting the distribution of `trip_type`.
+- **Extra Baggage Requests:** Finally, we plotted the distribution of customers who requested extra baggage to analyze this preference.
+
+These visualizations helped in understanding the dataset’s characteristics and guided us toward making decisions for the next stages of data cleaning and preparation for modeling.
+
+
