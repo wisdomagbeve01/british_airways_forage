@@ -117,4 +117,11 @@ To visualize the correlations among these features, we plotted a heatmap using S
 
 The resulting correlation matrix provides insights into which features are strongly related, assisting in feature selection and modeling decisions moving forward.
 
+### 2.4 Machine Learning Model Training
+
+In this phase, we prepared the dataset for training a machine learning model aimed at predicting booking completion. We started by converting categorical variables into dummy variables using `pd.get_dummies()`, which facilitates the modeling process by making these features numerical.
+
+Next, we defined our features (X) and target variable (y) by dropping the `booking_complete` column from the dataset. To evaluate the model's performance effectively, we split the dataset into training and testing sets, with 70% of the data allocated for training and 30% for testing, using `train_test_split()` from scikit-learn.
+
+After preparing the data, we initialized a **Random Forest** Classifier and trained the model using the training data. We then made predictions on the test set and evaluated the model's performance by calculating accuracy and generating a classification report, which provides a detailed breakdown of the model's predictive performance across different classes.
 
