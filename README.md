@@ -106,4 +106,15 @@ Next, we conducted several visualizations to understand the distributions of key
 
 These visualizations helped in understanding the dataset’s characteristics and guided us toward making decisions for the next stages of data cleaning and preparation for modeling.
 
+### 2.3 Correlation Matrix
+
+In this step, we focused on understanding the relationships between numeric features in the dataset. We began by selecting only the numeric columns from the DataFrame using `select_dtypes(include=['float64', 'int64'])`.
+
+To visualize the correlations among these features, we plotted a heatmap using Seaborn’s `heatmap()` function. This graphical representation helps identify how closely related different variables are, with correlation coefficients annotated within the cells for clarity. The `coolwarm` color map was applied to highlight both positive and negative correlations.
+
+![image](https://github.com/user-attachments/assets/d8b99c23-1391-40d7-a735-188e68813930)
+
+
+The resulting correlation matrix provides insights into which features are strongly related, assisting in feature selection and modeling decisions moving forward.
+
 
