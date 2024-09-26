@@ -48,12 +48,12 @@ Next, topic modeling results from the LDA model were visualized using `pyLDAvis`
 <img width="1470" alt="Screenshot 2024-09-25 at 10 39 57 PM" src="https://github.com/user-attachments/assets/2cdc3e56-9300-4910-99e5-fc1c7ca46196">
 
 
-Additionally, a sentiment distribution histogram was plotted to display the range of sentiment scores across all reviews, showing the overall tone of customer feedback. This helped to pinpoint whether customer reviews were generally positive, negative, or neutral.
+Additionally, a `sentiment distribution histogram` was plotted to display the range of sentiment scores across all reviews, showing the overall tone of customer feedback. This helped to pinpoint whether customer reviews were generally positive, negative, or neutral.
 
 ![sentiment score distribution](https://github.com/user-attachments/assets/4c887854-32a1-45ad-a7e6-593ae038c8ad)
 
 
-Finally, a bar chart was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
+Finally, a `bar chart` was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
 
 ![plot](https://github.com/user-attachments/assets/06fdf27c-46a2-4d66-a010-bbd01e55963a)
 
