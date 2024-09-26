@@ -7,7 +7,6 @@
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Task 1: Web Scraping to Gain Company Insights](#task-1-web-scraping-to-gain-company-insights)
 - [Task 2: Predicting Customer Buying Behavior](#task-2-predicting-customer-buying-behavior)
-- [Correlation Matrix](#2.3-correlation-matrix)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
 - [Model Evaluation](#model-evaluation)
