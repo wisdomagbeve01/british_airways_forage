@@ -49,6 +49,7 @@ Next, topic modeling results from the LDA model were visualized using `pyLDAvis`
 
 The interactive HTML-based interface can be found [here](file:///Users/khobyskills/Downloads/VS%20Codes/lda_visualization.html#topic=0&lambda=1&term=)
 
+
 Additionally, a sentiment distribution histogram was plotted to display the range of sentiment scores across all reviews, showing the overall tone of customer feedback. This helped to pinpoint whether customer reviews were generally positive, negative, or neutral.
 
 Finally, a bar chart was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
