@@ -135,3 +135,17 @@ To gain insights into the most influential features, we sorted the feature impor
 ![image](https://github.com/user-attachments/assets/1b0560a6-f452-4de3-a83b-e0fc04ede53f)
 
 The plot enhances interpretability by clearly displaying the importance scores alongside the feature names, providing valuable insights for further analysis and decision-making in the context of booking completion.
+
+### Evaluation and Result Summary
+The evaluation of the machine learning model revealed several key insights:
+
+- **Most Important Variable:** The most significant variable in the model was purchase_lead, which represents the time between the purchase date and the departure date. This indicates that understanding how far in advance customers make their bookings plays a crucial role in predicting booking completion.
+- **Significant Flight Information:** Variables related to flight details, such as flight time and duration, also showed significant influence on the model's predictions. This suggests that customers' choices and behaviors are closely linked to the specifics of their flights.
+- **Booking Origin:** Interestingly, the booking origin of the customer did not appear to be an important factor in the model. This insight could prompt further investigation into customer demographics and preferences that may better capture their behavior.
+- **Model Performance:** The model achieved an accuracy of approximately 0.7 (Precision) but only 0.003 (Recall), indicating that while it can correctly identify a majority of booking completions, it struggles to accurately capture the true positives. This suggests that the model requires further improvement to enhance its predictive capabilities.
+
+### Recommendations
+
+To enhance the model's performance, it is advisable to consider adding more customer-centric features. Incorporating additional data points, such as customer demographics, past purchasing behavior, or preferences, could provide a more comprehensive view and potentially improve the model's predictive accuracy.
+
+
