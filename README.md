@@ -3,9 +3,9 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Description](#data-description)
-- [Tools Used](#tools-used)
-- [Data Cleaning](#data-cleaning)
+- [Objectives](#objectives)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [Task 1: Web Scraping to Gain Company Insights](#task-1)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
