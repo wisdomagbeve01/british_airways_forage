@@ -88,9 +88,21 @@ In this step, we began by loading the dataset using the appropriate encoding (`I
 Next, we conducted several visualizations to understand the distributions of key variables:
 
 - **Number of Passengers:** A count plot was generated to explore how frequently different values occur in the `num_passengers` column.
+
+  ![image](https://github.com/user-attachments/assets/d571a195-b1da-429b-a58c-22e4177b69a6)
+
 - **Sales Channel:** Another count plot was created to examine the distribution of booking sources, showing which sales channels customers used.
+
+  ![image](https://github.com/user-attachments/assets/be23fede-260c-4ac9-a5d2-2588e835a568)
+
 - **Trip Type:** We explored whether customers preferred one-way or round-trip journeys by plotting the distribution of `trip_type`.
+
+  ![image](https://github.com/user-attachments/assets/565efabd-06a8-4cc5-850a-2b5e4530fe4e)
+
 - **Extra Baggage Requests:** Finally, we plotted the distribution of customers who requested extra baggage to analyze this preference.
+
+![image](https://github.com/user-attachments/assets/06614bce-17fb-4cbe-ae8f-7e98d43a66c1)
+
 
 These visualizations helped in understanding the dataset’s characteristics and guided us toward making decisions for the next stages of data cleaning and preparation for modeling.
 
