@@ -6,4 +6,16 @@ Using Python, I applied sentiment analysis and topic modeling to uncover key pat
 
 In the second phase, I trained a machine learning model to predict customer booking behavior based on various features in the dataset. This involved exploring and preparing the dataset, selecting appropriate algorithms, and conducting cross-validation to evaluate model performance. The outcomes of this analysis were summarized in a concise PowerPoint slide, showcasing actionable insights and strategies for enhancing customer engagement and satisfaction.
 
-Overall, this project combines data analytics and machine learning to inform British Airways' marketing and operational strategies, ultimately contributing to a better customer experience.
+## Objectives
+
+The objectives of this project are to analyze customer reviews of British Airways to identify key themes and sentiments, predict customer booking behavior using machine learning, and provide actionable insights that can enhance the airline's services and improve overall customer satisfaction.
+
+## Tools and Technologies Used
+
+The project utilized `Python`, `Beautiful Soup`, and `Requests` for web scraping, `Jupyter Notebook` along with `Pandas` and `NumPy` for data analysis, `Matplotlib` and `Seaborn` for visualizations, `Scikit-learn` for training predictive models, and `Microsoft PowerPoint` for presenting findings.
+
+
+
+
+
+
