@@ -24,7 +24,7 @@ For the data collection phase, I scraped customer review data from the Skytrax w
 
 The code file can be found [here](https://drive.google.com/file/d/1x9LGWede1TsUIyksEE5TirPgOl4e_f_o/view?usp=sharing)
 
-## 1.2 Data Cleaning and Preparation
+### 1.2 Data Cleaning and Preparation
 
 During the data cleaning phase, the raw reviews were processed to ensure they were in a usable format for analysis. Key cleaning tasks included removing unnecessary text such as `"✅ Trip Verified"` and `"Not Verified,"` stripping leading characters like `'|'` and `spaces`, and eliminating extra whitespace. Additionally, HTML entities present in the reviews were handled by parsing the content with `Beautiful Soup`. Once the reviews were cleaned, they were saved into a CSV file using `Pandas` for further processing. This step ensured the data was properly structured, making it ready for sentiment analysis and other text-based analyses.
 
