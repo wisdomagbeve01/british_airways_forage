@@ -65,5 +65,7 @@ The analysis revealed that the most frequently discussed topics in the reviews i
 **Sentiment Analysis:**
 Out of **1000 reviews**, **546** were classified as `positive`, **437** as `negative`, and **17** as `neutral`. This demonstrates a clear polarization, with the majority of reviews falling into either positive or negative categories, indicating strong customer opinions about their experiences with British Airways.
 
+The presentation file can be found [here](https://docs.google.com/presentation/d/10xXlqFvIZ-zLSIfnq2XenNParniw63sN/edit?usp=sharing&ouid=103100026359202502665&rtpof=true&sd=true)
+
 
 
