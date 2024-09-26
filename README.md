@@ -43,7 +43,7 @@ In this stage, various visualizations were created to enhance the presentation o
 ![output](https://github.com/user-attachments/assets/eb181891-7c79-4563-9f75-3eb7e2999ff5)
 
 
-Next, topic modeling results from the LDA model were visualized using `pyLDAvis`, which provides an interactive HTML-based interface to explore the relationships between topics and words. The visualization file was saved in an HTML format to allow for easy exploration of the topics.
+Next, topic modeling results from the LDA model were visualized using `pyLDAvis`, which provides an `interactive HTML-based interface` to explore the relationships between topics and words. The visualization file was saved in an HTML format to allow for easy exploration of the topics.
 
 <img width="1470" alt="Screenshot 2024-09-25 at 10 39 57 PM" src="https://github.com/user-attachments/assets/2cdc3e56-9300-4910-99e5-fc1c7ca46196">
 
