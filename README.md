@@ -73,3 +73,10 @@ The presentation file can be found [here](https://docs.google.com/presentation/d
 
 ### 2.1 Exploratory Data Analysis
 
+The data exploration process began by downloading the dataset using `gdown` from a Google Drive link and loading it into a pandas DataFrame. After successfully loading the dataset, the first few rows were previewed using `head()`, and the structure of the dataset was examined using `info()` to understand the columns, data types, and any missing values.
+
+Next, the flight_day column, which originally contained day names like "Mon" or "Tue," was mapped to numeric values for easier processing. Each day was assigned a corresponding number (e.g., "Mon" = 1, "Tue" = 2). After mapping, the unique values were checked to confirm the correct conversion of the data.
+
+This initial exploration provided an overview of the dataset and allowed us to clean and prepare it for further analysis.
+
+The code file can be found [here](https://drive.google.com/file/d/1JlsMseYqTzTDnNRcB9L-EOar1DJkxhd0/view?usp=sharing)
