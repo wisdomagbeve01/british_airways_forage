@@ -11,7 +11,7 @@
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
 - [Results](#results)
-- [Limitations](#limitations)
+- [Evaluation and Result Summary](#evaluations)
 - [Recommendations](#recommendations)
 - [References](#references)
 
