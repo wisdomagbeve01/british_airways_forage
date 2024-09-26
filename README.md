@@ -10,7 +10,7 @@
 - [Correlation Matrix](#2.3-correlation-matrix)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
-- [Results](#results)
+- [Model Evaluation](#model-evaluation)
 - [Evaluation and Result Summary](#evaluation-and-result-summary)
 - [Recommendations](#recommendations)
 - [References](#references)
