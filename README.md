@@ -2,6 +2,18 @@
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Data Description](#data-description)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Key Metrics Measured](#key-metrics-measured)
+- [Visualizations](#visualizations)
+- [Results](#results)
+- [Limitations](#limitations)
+- [Recommendations](#recommendations)
+- [References](#references)
+
 
 ## Project Overview
 
