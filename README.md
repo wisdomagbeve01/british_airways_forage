@@ -1,3 +1,5 @@
+# Table of Contents
+
 # Project Overview
 
 This project aims to gain valuable insights into customer experiences with British Airways by utilizing web scraping techniques to collect reviews from Skytrax. The initial phase involved scraping extensive review data, focusing on sentiments and themes associated with the airline's services. After acquiring the dataset, I performed thorough data cleaning to address inconsistencies and prepare the data for analysis.
@@ -26,4 +28,4 @@ The code file can be found [here](https://drive.google.com/file/d/1x9LGWede1TsUI
 
 During the data cleaning phase, the raw reviews were processed to ensure they were in a usable format for analysis. Key cleaning tasks included removing unnecessary text such as `"✅ Trip Verified"` and `"Not Verified,"` stripping leading characters like `'|'` and `spaces`, and eliminating extra whitespace. Additionally, HTML entities present in the reviews were handled by parsing the content with `Beautiful Soup`. Once the reviews were cleaned, they were saved into a CSV file using `Pandas` for further processing. This step ensured the data was properly structured, making it ready for sentiment analysis and other text-based analyses.
 
-
+## 1.3 Data Analysis
