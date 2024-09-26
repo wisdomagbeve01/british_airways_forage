@@ -125,3 +125,13 @@ Next, we defined our features (X) and target variable (y) by dropping the `booki
 
 After preparing the data, we initialized a **Random Forest** Classifier and trained the model using the training data. We then made predictions on the test set and evaluated the model's performance by calculating accuracy and generating a classification report, which provides a detailed breakdown of the model's predictive performance across different classes.
 
+
+### Model Evaluation
+
+In the Model Evaluation phase, we focused on assessing the performance of the trained machine learning model, specifically the Random Forest Classifier. We began by retrieving the feature importances from the model, which indicates how valuable each feature is in making predictions.
+
+To gain insights into the most influential features, we sorted the feature importances and selected the top 15 most important features. Using Seaborn, we created a bar plot to visualize these importances, allowing us to easily identify which features contribute the most to the model's predictions.
+
+![image](https://github.com/user-attachments/assets/1b0560a6-f452-4de3-a83b-e0fc04ede53f)
+
+The plot enhances interpretability by clearly displaying the importance scores alongside the feature names, providing valuable insights for further analysis and decision-making in the context of booking completion.
