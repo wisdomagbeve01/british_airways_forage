@@ -37,3 +37,14 @@ For sentiment analysis, the `TextBlob` library was used to compute the sentiment
 Topic modeling was conducted using `spaCy` for tokenization and lemmatization, followed by the creation of a dictionary and corpus using `Gensim`. An `LDA (Latent Dirichlet Allocation)` model was trained to identify recurring themes within the reviews, revealing key topics discussed by customers. This analysis helped uncover the main concerns and praises of British Airways' services.
 
 ### 1.4 Visualizations
+
+In this stage, various visualizations were created to enhance the presentation of insights gained from the analysis. A `word cloud` was generated to highlight the most frequently mentioned words in the reviews, providing a visual representation of recurring themes. The word cloud helps in identifying key topics at a glance.
+
+![output](https://github.com/user-attachments/assets/eb181891-7c79-4563-9f75-3eb7e2999ff5)
+
+
+Next, topic modeling results from the LDA model were visualized using pyLDAvis, which provides an interactive HTML-based interface to explore the relationships between topics and words. The visualization file was saved in an HTML format to allow for easy exploration of the topics.
+
+Additionally, a sentiment distribution histogram was plotted to display the range of sentiment scores across all reviews, showing the overall tone of customer feedback. This helped to pinpoint whether customer reviews were generally positive, negative, or neutral.
+
+Finally, a bar chart was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
