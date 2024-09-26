@@ -29,3 +29,9 @@ The code file can be found [here](https://drive.google.com/file/d/1x9LGWede1TsUI
 During the data cleaning phase, the raw reviews were processed to ensure they were in a usable format for analysis. Key cleaning tasks included removing unnecessary text such as `"✅ Trip Verified"` and `"Not Verified,"` stripping leading characters like `'|'` and `spaces`, and eliminating extra whitespace. Additionally, HTML entities present in the reviews were handled by parsing the content with `Beautiful Soup`. Once the reviews were cleaned, they were saved into a CSV file using `Pandas` for further processing. This step ensured the data was properly structured, making it ready for sentiment analysis and other text-based analyses.
 
 ### 1.3 Data Analysis
+
+In the data analysis stage, sentiment analysis and topic modeling were performed to extract meaningful insights from the cleaned reviews.
+
+For sentiment analysis, the TextBlob library was used to compute the sentiment polarity of each review, quantifying whether the sentiment was positive, negative, or neutral. The overall sentiment distribution was then analyzed to understand customer feedback trends.
+
+Topic modeling was conducted using spaCy for tokenization and lemmatization, followed by the creation of a dictionary and corpus using Gensim. An LDA (Latent Dirichlet Allocation) model was trained to identify recurring themes within the reviews, revealing key topics discussed by customers. This analysis helped uncover the main concerns and praises of British Airways' services.
