@@ -1,5 +1,7 @@
 # Data Science Job Simulation (British Airways)
-# Table of Contents
+
+## Table of Contents
+
 
 ## Project Overview
 
