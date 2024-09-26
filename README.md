@@ -18,7 +18,7 @@ The project utilized `Python`, `Beautiful Soup`, and `Requests` for web scraping
 
 ## Task 1: Web Scraping to Gain Company Insights
 
-## 1.1 Data Collection
+### 1.1 Data Collection
 
 For the data collection phase, I scraped customer review data from the Skytrax website, specifically targeting British Airways reviews. Using Python, I employed the `Requests` library to retrieve the HTML content of multiple review pages and parsed it with `Beautiful Soup` to extract the text reviews. The code iterated over a specified number of pages, collecting the review text from each page and appending it to a list. This allowed me to gather a comprehensive dataset of reviews, ensuring that all the feedback was stored in a structured format using `Pandas` for further analysis. The data at this stage was still raw, containing unprocessed text that would later undergo cleaning and transformation for sentiment analysis and topic modeling.
 
