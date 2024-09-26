@@ -6,6 +6,7 @@
 - [Objectives](#objectives)
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Task 1: Web Scraping to Gain Company Insights](#task-1-web-scraping-to-gain-company-insights)
+- [Task 2: Predicting Customer Buying Behavior](#task-2-predicting-customer-buying-behavior)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
