@@ -1,6 +1,6 @@
 # Table of Contents
 
-# Project Overview
+## Project Overview
 
 This project aims to gain valuable insights into customer experiences with British Airways by utilizing web scraping techniques to collect reviews from Skytrax. The initial phase involved scraping extensive review data, focusing on sentiments and themes associated with the airline's services. After acquiring the dataset, I performed thorough data cleaning to address inconsistencies and prepare the data for analysis.
 
@@ -16,7 +16,7 @@ The objectives of this project are to analyze customer reviews of British Airway
 
 The project utilized `Python`, `Beautiful Soup`, and `Requests` for web scraping, `Visual Studio Code` along with `Pandas` and `NumPy` for data analysis, `Matplotlib` and `Seaborn` for visualizations, `Scikit-learn` for training predictive models, and `Microsoft PowerPoint` for presenting findings.
 
-# Task 1: Web Scraping to Gain Company Insights
+## Task 1: Web Scraping to Gain Company Insights
 
 ## 1.1 Data Collection
 
