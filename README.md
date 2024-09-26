@@ -35,3 +35,5 @@ In the data analysis stage, sentiment analysis and topic modeling were performed
 For sentiment analysis, the `TextBlob` library was used to compute the sentiment polarity of each review, quantifying whether the sentiment was positive, negative, or neutral. The overall sentiment distribution was then analyzed to understand customer feedback trends.
 
 Topic modeling was conducted using `spaCy` for tokenization and lemmatization, followed by the creation of a dictionary and corpus using `Gensim`. An `LDA (Latent Dirichlet Allocation)` model was trained to identify recurring themes within the reviews, revealing key topics discussed by customers. This analysis helped uncover the main concerns and praises of British Airways' services.
+
+### 1.4 Visualizations
