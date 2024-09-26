@@ -59,7 +59,7 @@ Finally, a `bar chart` was used to illustrate the frequency of the top 20 most c
 
 ### 1.5 Presentation
 
-**Key Topics:*
+**Key Topics:**
 The analysis revealed that the most frequently discussed topics in the reviews included `"service,"` `"seat,"` `"crew,"` and `"staff."` These terms were highlighted in both the topic modeling and word frequency visualizations, indicating that customer experiences with the airline staff and the quality of seating and service were the dominant themes of discussion.
 
 
