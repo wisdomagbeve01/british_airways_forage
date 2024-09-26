@@ -148,4 +148,5 @@ The evaluation of the machine learning model revealed several key insights:
 
 To enhance the model's performance, it is advisable to consider adding more customer-centric features. Incorporating additional data points, such as customer demographics, past purchasing behavior, or preferences, could provide a more comprehensive view and potentially improve the model's predictive accuracy.
 
+The presentation file can be found [here](https://docs.google.com/presentation/d/1PhKAJgonZP8kSGeXfbL1yHy-LUZiTFdd/edit#slide=id.p1)
 
