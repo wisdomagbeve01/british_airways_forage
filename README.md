@@ -45,6 +45,9 @@ In this stage, various visualizations were created to enhance the presentation o
 
 Next, topic modeling results from the LDA model were visualized using pyLDAvis, which provides an interactive HTML-based interface to explore the relationships between topics and words. The visualization file was saved in an HTML format to allow for easy exploration of the topics.
 
+<img width="1470" alt="Screenshot 2024-09-25 at 10 39 57 PM" src="https://github.com/user-attachments/assets/2cdc3e56-9300-4910-99e5-fc1c7ca46196">
+
+
 Additionally, a sentiment distribution histogram was plotted to display the range of sentiment scores across all reviews, showing the overall tone of customer feedback. This helped to pinpoint whether customer reviews were generally positive, negative, or neutral.
 
 Finally, a bar chart was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
