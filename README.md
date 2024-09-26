@@ -54,3 +54,6 @@ Additionally, a sentiment distribution histogram was plotted to display the rang
 
 
 Finally, a bar chart was used to illustrate the frequency of the top 20 most common words across all topics, offering insight into the most relevant terms in customer discussions.
+
+![plot](https://github.com/user-attachments/assets/06fdf27c-46a2-4d66-a010-bbd01e55963a)
+
