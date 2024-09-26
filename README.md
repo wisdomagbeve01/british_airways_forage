@@ -12,7 +12,7 @@ The objectives of this project are to analyze customer reviews of British Airway
 
 ## Tools and Technologies Used
 
-The project utilized `Python`, `Beautiful Soup`, and `Requests` for web scraping, `Jupyter Notebook` along with `Pandas` and `NumPy` for data analysis, `Matplotlib` and `Seaborn` for visualizations, `Scikit-learn` for training predictive models, and `Microsoft PowerPoint` for presenting findings.
+The project utilized `Python`, `Beautiful Soup`, and `Requests` for web scraping, `Visual Studio Code` along with `Pandas` and `NumPy` for data analysis, `Matplotlib` and `Seaborn` for visualizations, `Scikit-learn` for training predictive models, and `Microsoft PowerPoint` for presenting findings.
 
 # Task 1: Web Scraping to Gain Company Insights
 
