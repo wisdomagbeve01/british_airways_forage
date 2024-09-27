@@ -1,5 +1,10 @@
 # Data Science Job Simulation Project (British Airways) - FORAGE
 
+<img src="https://wallpapers.com/images/hd/flying-airbus-a350-from-british-airways-qkuwkg1b3tn1stq6.jpg" alt="MasterHead" width="1000"/>
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -7,8 +12,6 @@
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Task 1: Web Scraping to Gain Company Insights](#task-1-web-scraping-to-gain-company-insights)
 - [Task 2: Predicting Customer Buying Behavior](#task-2-predicting-customer-buying-behavior)
-- [Key Metrics Measured](#key-metrics-measured)
-- [Visualizations](#visualizations)
 - [Model Evaluation](#model-evaluation)
 - [Evaluation and Result Summary](#evaluation-and-result-summary)
 - [Recommendations](#recommendations)
